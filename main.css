@@ -1,0 +1,326 @@
+body{
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.image{
+    width: 25%;
+
+
+}
+.imag{
+    width: 40%;
+    
+     
+}
+
+.im{
+    width: 100%
+}
+.nav{
+    background-color: darkslategrey;
+    text-align: center;
+    color: white;
+    
+}
+.nav ul li{ 
+    display: inline-block;
+    text-align: center; 
+    padding: 2em;
+    background-color:darkslategrey;
+    list-style:none ;
+    color: white;
+    
+    
+
+}
+.nav a {
+    color: white;
+}
+.nav li,ul a:hover{
+    background-color: darkslategray;
+    color: white;
+}
+
+.footer{
+    background-color: darkslategray;
+    text-align: left;
+    color:white;
+    margin-top: 29%;
+    padding: 6px;
+    width: 75rem;
+    margin-left: 0.3em;
+    margin-right: 1.7em;
+
+}
+
+
+.div{
+    width: 60em;
+    margin: 2%;
+    background-color: gainsboro; 
+    
+}
+.empty{
+    width: 100%;
+}
+.side2{
+    width: 1em;
+    margin: 2em;
+    margin-top:  2em;
+
+}
+.im{
+    width: 60%;
+    margin-right: 5em;
+    margin-right: 6em;
+}
+.main{
+    display: flex;
+     background-color:solid 10em gainsboro;
+
+}
+
+.raws{
+    background-color: lightgray;
+    width: 25%;
+    text-align: center;
+    margin: 0.1em;
+    margin-top: 2em;
+    margin-right: 1.7em;
+
+    
+}
+.mage{
+    width: 95%;
+    height: 35%;
+}
+.p{
+    border-bottom:solid 0.1em gainsboro;
+    width: 100%;
+    height:2em;
+    }
+    .imag{
+        width: 100%;
+        height: 30%;
+    }
+
+.ttt{
+    margin-right: 9ems;
+    margin-bottom: 6em;
+    width: 30%;
+    float: right;
+    margin-top: 3%;
+}
+
+
+.faya{
+    width: 50%;
+    height: 25%;
+    margin-top: 2%;
+}
+
+/* class footer active */
+
+.footer{
+    background-color: darkslategray;
+    text-align: left;
+    color:white;
+    margin-top: 60%;
+    padding: 4px;
+    width: 65rem;
+    margin-left: 0.3em;
+    margin-right: 1.7em;
+
+}
+
+
+/*home active */
+
+.row{
+    
+    /* outline: 1px solid red;*/
+     padding: 5px;
+  }
+  .column{
+  
+      
+      float: left ;
+      
+      width:26%;
+  
+      margin-right: 1em;
+      margin-left: 1.9em;
+      
+      outline:none;
+
+      margin-top: 5%;
+    
+  
+
+  
+  }
+  .d{
+      color: white;
+      background-color: steelblue;
+      text-decoration: none;
+      font-style: initial;
+  }
+  
+  .column:last-child{
+      margin-left: 0;
+  }
+
+  
+  .fl-left{
+      border-radius: 50%;
+      margin: 0 1.6em 1.6em;
+      width: 18%;
+      float: left;
+        margin-top: 20%;
+    }
+
+    .main-article{
+
+        background-color: white;
+        padding:3.2em ;
+        overflow: hidden;
+    }
+    
+  
+  
+  .first{
+      width: 200px;
+      height: 125px;
+  }
+  .second{ 
+       width: 200px;
+       height: 125px;
+       margin-right: 2em;
+      
+
+  }
+  .third{ 
+      width: 200px;
+      height: 125px;
+
+
+
+
+  }
+  .bai{
+      float: flex;
+  }
+  .column{
+      margin-bottom: 5%;
+  }
+  .me{
+    border-radius: 70%;
+    width: 14%;
+    float: left;
+    margin: 0 1.6em 1.06em 0;
+}
+
+/*contact side */
+
+.art{
+    background-color: rgb(216, 205, 205);
+    float: left;
+    margin: 1.6em;
+    width: 40%;
+}
+
+.contact{
+    float: right;
+    width: 400px;
+    margin-right: 3.5em;
+}
+
+}
+
+/* about me */
+
+.aside-link{
+    background:darkslategray;
+    margin:0;
+    padding: 0;
+    margin-bottom: 2em;
+    color: white;
+}
+ .side{
+     background-color: white;
+     width: 96%;
+     height: 6em;
+     width: 1000px;
+     margin-bottom: 7%;
+     margin-left: 1em;
+     margin-top: 0;
+     
+ }
+ .df{
+
+    width: 1000px;
+    margin-bottom: 7%;
+    margin-left: 1em;
+    margin-top: 0;
+    height: 6em; 
+}
+ 
+
+
+
+.jeff{
+    width: 500px;
+    height: 120px;
+}
+
+
+.aside-link li{
+    border-bottom: 1px solid white;
+    list-style: none;
+    padding: 0.6em;
+    color: white;
+}
+.aside-link ul,li{
+    color:white ;
+
+}
+.aside-link a:hover{
+    color: white;
+}
+
+
+
+.row{
+    display: flex;
+}
+
+img{
+    width: 100%;
+}
+.da{
+    width: 400px;
+}
+
+.cul{
+    margin-left: 15em;
+    background-color: rgb(247, 236, 247);
+    
+}
+
+.column:last-child{
+    margin-right: 0;
+}
+
+.im{
+    width: 1000px;
+    margin-bottom: 7%;
+    margin-left: 1em;
+    margin-top: 0;
+    height: 6em;
+}
+
+.aside-link ul,l > a:hover{
+    background-color: darkslategray;
+    color: white;
+}
